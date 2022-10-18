@@ -1,1 +1,2 @@
 Este un exemplu de fisier pentru a demonstra modul de lucru git.
+Modificare 1.
